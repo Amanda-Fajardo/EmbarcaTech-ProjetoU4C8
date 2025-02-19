@@ -18,8 +18,8 @@
 #define JOYSTICK_PB 22     
 #define BUTTON_A_PIN 5     
 
-#define LED_R_PIN 13  
-#define LED_B_PIN 12  
+#define LED_R_PIN 12  
+#define LED_B_PIN 13  
 #define LED_G_PIN 11  
 
 // Variáveis globais
